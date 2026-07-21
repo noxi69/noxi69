@@ -6,13 +6,13 @@ I am currently a 3rd-year student at **EPITA Lyon** (1st year of the Engineering
 
 ### 🚀 Featured Projects
 
-* ** Tiger Compiler (In Progress)**
+* **Tiger Compiler (In Progress)**
     * Building a full compiler for the Tiger language.
     * *Key focus:* Lexical analysis, parsing, abstract syntax trees (AST), and code generation.
-* ** 42sh (POSIX Shell)**
+* **42sh (POSIX Shell)**
     * Developed a complete POSIX-compatible shell in C.
     * *Highlights:* Command parsing, pipes, redirections, and process management.
-* ** Unity Game Project**
+* **Unity Game Project**
     * Created an interactive video game using C# and the Unity engine.
     * *Focus:* Game logic, physics, and object-oriented programming.
 
